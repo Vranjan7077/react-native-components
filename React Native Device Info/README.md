@@ -147,9 +147,10 @@ DeviceInfo.isCameraPresent()
 ```
 
 
-## Tip: Share your reusable components between projects using Bit (Github).
-https://github.com/teambit/bit
+## Tips: 
+Share your reusable components between projects using Bit [Github]https://github.com/teambit/bit)
 
 Bit makes it simple to share, document, and reuse independent components between projects. Use it to maximize code reuse, keep a consistent design, collaborate as a team, speed delivery, and build apps that scale.
+
 Bit supports Node, React Native, React, Vue, Angular, and more.
 
