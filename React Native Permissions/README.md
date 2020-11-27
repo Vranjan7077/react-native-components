@@ -58,4 +58,4 @@ check(PERMISSIONS.IOS.CAMERA)
     // …
   });
 ```
-![Bit](#)
+![Permissions](https://github.com/Vranjan7077/react-native-components/blob/main/React%20Native%20Permissions/img1.png?raw=true)
