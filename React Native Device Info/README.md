@@ -93,5 +93,7 @@ Share your reusable components between projects using Bit [Github](https://githu
 
 Bit makes it simple to share, document, and reuse independent components between projects. Use it to maximize code reuse, keep a consistent design, collaborate as a team, speed delivery, and build apps that scale.
 
-Bit supports Node, React Native, React, Vue, Angular, and more.
+[Bit](https://bit.dev/) supports Node, React Native, React, Vue, Angular, and more.
+![Bit](https://github.com/Vranjan7077/react-native-components/blob/main/React%20Native%20Device%20Info/gif.gif?raw=true)
+
 
