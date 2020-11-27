@@ -1,3 +1,11 @@
+React Native device info is an excellent open-source library to retrieve device information in a react native application.
+
+This library has a long API that lets you retrieve application name, battery level, build number, device ID, device name etc.
+
+Currently, the latest version of it is v7.0.2 and it owns 5k+ stars in [Github](https://github.com/react-native-device-info/react-native-device-info#usage)
+
+
+
 ## Installation
 
 Using npm:
