@@ -18,18 +18,35 @@ yarn add react-native-permissions
 
 # Commonly used permissions from this library.
 
+```shell
 PERMISSIONS.ANDROID.CALL_PHONE;
+```
+```shell
 PERMISSIONS.ANDROID.CAMERA;
+```
+```shell
 PERMISSIONS.ANDROID.READ_CALL_LOG;
+```
+```shell
 PERMISSIONS.ANDROID.READ_SMS;
+```
+```shell
 PERMISSIONS.ANDROID.READ_CONTACTS;
+```
 
 ### These permission requests can have one of the following outcomes.
-
+```shell
 RESULTS.UNAVAILABLE
+```
+```shell
 RESULTS.DENIED
+```
+```shell
 RESULTS.GRANTED
+```
+```shell
 RESULTS.BLOCKED
+```
 
 #### let’s see how to check and continue with the permission requests.
 ```shell
