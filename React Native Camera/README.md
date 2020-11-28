@@ -48,4 +48,6 @@ const styles = StyleSheet.create({
  
 export default App;
 ```
-![gif](https://github.com/Vranjan7077/react-native-components/blob/main/React%20Native%20Device%20Info/gif.gif?raw=true)
+
+
+![gif](https://github.com/Vranjan7077/react-native-components/blob/main/React%20Native%20Camera/gif.gif?raw=true)
